@@ -1,5 +1,2 @@
 target
 .env
-.project
-*.prefs
-.classpath
